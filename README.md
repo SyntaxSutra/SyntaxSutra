@@ -10,7 +10,7 @@
 - 🔭 Currently building mini projects with **HTML, CSS, Python & C**  
 - 🌱 Learning **Data Structures in C**, **Git & GitHub**, and **problem-solving with Python**  
 - 🤝 Looking to collaborate on **open-source projects** and beginner-friendly dev teams  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/akshaya-aman-5b0825313/) | [Email](akshayaaman01@gmail.com)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/akshaya-aman-5b0825313/) | [Email](mailto:akshayaaman01@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m more productive coding with lo-fi beats and a cup of coffee ☕🎧  
 
@@ -38,6 +38,6 @@
 
 ✨ **Let's Connect!**
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshaya-aman-5b0825313/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="akshayaaman01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshaya-aman-5b0825313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akshayaaman01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
