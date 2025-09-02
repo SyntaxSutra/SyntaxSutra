@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshaya Aman (@SyntaxSutra)</h1>
-<h3 align="center">Aspiring Software Developer | BTech CSE | Web & Python Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | BTech CSE | Web , Python , C++ Enthusiast  </h3>
 
 ---
 
