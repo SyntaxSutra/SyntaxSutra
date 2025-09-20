@@ -5,7 +5,7 @@
 
 🌟 **About Me**
 
-- 🎓 First-year Computer Science Engineering student at NMIT, Bangalore  
+- 🎓 Second-year Computer Science Engineering student at NMIT, Bangalore  
 - 💻 I love coding and exploring tech—from front-end design to Python scripts  
 - 🔭 Currently building mini projects with **HTML, CSS, Python & C**  
 - 🌱 Learning **Data Structures in C**, **Git & GitHub**, and **problem-solving with Python**  
