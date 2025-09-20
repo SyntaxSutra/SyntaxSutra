@@ -7,8 +7,8 @@
 
 - 🎓 Second-year Computer Science Engineering student at NMIT, Bangalore  
 - 💻 I love coding and exploring tech—from front-end design to Python scripts  
-- 🔭 Currently building mini projects with **HTML, CSS, Python & C**  
-- 🌱 Learning **Data Structures in C**, **Git & GitHub**, and **problem-solving with Python**  
+- 🔭 Currently building mini projects with **HTML, CSS, Python & C and C++**  
+- 🌱 Learning **Data Structures in C++**, **Git & GitHub**, and **problem-solving with Python**  
 - 🤝 Looking to collaborate on **open-source projects** and beginner-friendly dev teams  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/akshaya-aman-5b0825313/) | [Email](mailto:akshayaaman01@gmail.com)  
 - 😄 Pronouns: He/Him  
